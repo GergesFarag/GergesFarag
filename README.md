@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerges Farag</h1>
-<h3 align="center">A passionate fullstack developer</h3>
-<div display="flex">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gergesfarag" alt="gergesfarag" /></a> </p>
-</div>
+<h3 align="center">A Passionate Fullstack Web Developer</h3>
 
 - 🔭 I’m currently working as **freelancer fullstack developer**
 
