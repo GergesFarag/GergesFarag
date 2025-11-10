@@ -22,8 +22,6 @@ I'm a **Fullstack Developer** based in Cairo, Egypt 🇪🇬, specializing in bu
 - 📚 Learning system design and architecture patterns
 - 💼 Delivering exceptional value to clients worldwide
 
-> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*
-
 ## 🛠️ Tech Stack
 
 <div align="center">
